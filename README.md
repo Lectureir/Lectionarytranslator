@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 
 <head>
@@ -8,7 +7,7 @@
 </head>
 <body>
   <center>
-  <img src="https://assets.myket.ir/icons/large/com.my.liction.translate_68c655e7-f9e2-4c58-9124-e9650104108b.png"></img>
+  <img src="https://assets.myket.ir/icons/large/com.my.liction.translate_68c655e7-f9e2-4c58-9124-e9650104108b.png">
   <b>
   <p style="font-size: 30px;">مترجم لیکیشن - ترجمه متون فارسی و انگلیسی </p>
   </b>
@@ -16,4 +15,4 @@
   </center>
 </body>
 
-</html>narytra
+</html>
